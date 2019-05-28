@@ -1,0 +1,6 @@
+{
+  "connectionString": "mongodb://localhost/btx-auth-server",
+  "serverPort": "3005",
+  "secret": "secret string that should be changed",
+  "defaultJWTExpiration": 3600
+}
